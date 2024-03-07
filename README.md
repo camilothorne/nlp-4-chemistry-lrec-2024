@@ -15,14 +15,14 @@ The aim of this tutorial is to provide a basic introduction to this emerging fie
 * **Topic 3**. Distributional models for (computational) chemistry.
 * **Topic 4**. Large language models, multimodality, applications.
 
-This tutorial assumes no prior knowledge, with the exception to exposure to Python and natural language processing. Knowledge of chemistry is beneficial but not required. For an overview of the topics, please read the proposal below. Please cite it as follows:
-```bash
+This tutorial assumes no prior knowledge, with the exception to exposure to Python and natural language processing. Knowledge of chemistry is beneficial but not required. For an overview of the topics, please read the proposal below. Please cite as follows:
+```
 @misc{thorne-lrec-2024,
-  	author		= {Thorne, Camilo and Saber Akhondi, Saber},
-  	institution	= {Elsevier},
- 	title 		= {NLP for Chemistry - Introduction and Recent Advances},
-  	year 		= {2024},
-  	url 		= {https://github.com/camilothorne/nlp-4-chemistry-lrec-2024}
+  author		= {Thorne, Camilo and Saber Akhondi, Saber},
+  institution	= {Elsevier},
+  title 		= {NLP for Chemistry - Introduction and Recent Advances},
+  year 		= {2024},
+  url 		= {https://github.com/camilothorne/nlp-4-chemistry-lrec-2024}
 }
 ````
 
