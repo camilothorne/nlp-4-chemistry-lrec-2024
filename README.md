@@ -1,6 +1,5 @@
-<img style="float: right; margin: auto;" src="./cover-logos/logo-elsevier.jpg" alt="elsevier" width="88"> 
-
-<img style="float: right; margin: auto;" src="./cover-logos/molecule.jpg" alt="molecule" width="120">
+<img style="float: right;" src="./cover-logos/logo-elsevier.jpg" alt="elsevier" width="88"> 
+<img style="float: left;" src="./cover-logos/molecule.jpg" alt="molecule" width="120">
 
 ## NLP for Chemistry - Introduction and Recent Advances
 
@@ -20,7 +19,8 @@ This tutorial assumes no prior knowledge, with the exception to exposure to Pyth
   institution = "Elsevier",
   title = "NLP for Chemistry - Introduction and Recent Advances",
   year = "2024",
-  note = "Available at: \url{https://github.com/camilothorne/nlp-4-chemistry-lrec-2024}"}
+  note = "Available at: \url{https://github.com/camilothorne/nlp-4-chemistry-lrec-2024}"
+}
 ````
 
 <details>
