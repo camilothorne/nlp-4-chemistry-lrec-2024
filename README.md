@@ -1,12 +1,10 @@
-<img align="left" src="./cover-logos/molecule.jpg" alt="molecule" width="60" hspace="20">
-<img align="right" src="./cover-logos/logo-elsevier.jpg" alt="elsevier" width="48" hspace="20">
-
-## NLP for Chemistry - Introduction and Recent Advances
+## <p style="text-align: center;"> NLP for Chemistry - Introduction and Recent Advances </p>
 
 <img align="left" src="./cover-logos/molecule.jpg" alt="molecule" width="60" hspace="20">
 <img align="right" src="./cover-logos/logo-elsevier.jpg" alt="elsevier" width="48" hspace="20">
 
 **[GitHub respository for the COLING/LREC 2024 tutorial on NLP for chemistry]**
+<br>
 
 Chemistry was for long a *terra incognita* for natural language processing (NLP). While strong overlap with computational and statistical physics (in e.g., so-called computational chemistry) gave rise to the application of many statistical models, methods derived from NLP have only reached wide acceptance in the past twenty years. The aim of this tutorial is to provide a basic introduction to this emerging field, and overview some of its latest advances. Given its breath, we will focus on four fundamental use cases. This tutorial will be organized as follows:
 
