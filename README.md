@@ -1,7 +1,8 @@
-<img align="left" src="./cover-logos/logo-elsevier.jpg" alt="elsevier" width="68">
-<img align="right" src="./cover-logos/molecule.jpg" alt="molecule" width="92">
+<img style="float: right; margin: auto;" src="./cover-logos/logo-elsevier.jpg" alt="elsevier" width="88"> 
 
-# <center> NLP for Chemistry – Introduction and Recent Advances </center>
+<img style="float: right; margin: auto;" src="./cover-logos/molecule.jpg" alt="molecule" width="120">
+
+## NLP for Chemistry - Introduction and Recent Advances
 
 **[GitHub respository for the COLING/LREC 2024 tutorial on NLP for chemistry]**
 
@@ -13,7 +14,7 @@ Chemistry was for long a *terra incognita* for natural language processing (NLP)
 * **Topic 4**. Large language models, multimodality, applications.
 
 This tutorial assumes no prior knowledge, with the exception to exposure to Python and natural language processing. Knowledge of chemistry is beneficial but not required. For an overview of the topics, please read the proposal below. Please cite it as follows:
-```latex
+```bash
 @other{ThorneLREC2024,
   author = "Camilo Thorne and Saber Akhondi",
   institution = "Elsevier",
