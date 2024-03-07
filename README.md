@@ -1,7 +1,10 @@
-<img align="left" style="vertical-align:top" src="./cover-logos/molecule.jpg" alt="molecule" width="60">
-<img align="right" style="vertical-align:top" src="./cover-logos/logo-elsevier.jpg" alt="elsevier" width="48"> 
+<img align="left" src="./cover-logos/molecule.jpg" alt="molecule" width="60" hspace="20">
+<img align="right" src="./cover-logos/logo-elsevier.jpg" alt="elsevier" width="48" hspace="20">
 
 ## NLP for Chemistry - Introduction and Recent Advances
+
+<img align="left" src="./cover-logos/molecule.jpg" alt="molecule" width="60" hspace="20">
+<img align="right" src="./cover-logos/logo-elsevier.jpg" alt="elsevier" width="48" hspace="20">
 
 **[GitHub respository for the COLING/LREC 2024 tutorial on NLP for chemistry]**
 
@@ -14,12 +17,12 @@ Chemistry was for long a *terra incognita* for natural language processing (NLP)
 
 This tutorial assumes no prior knowledge, with the exception to exposure to Python and natural language processing. Knowledge of chemistry is beneficial but not required. For an overview of the topics, please read the proposal below. Please cite it as follows:
 ```bash
-@other{ThorneLREC2024,
-  author = "Camilo Thorne and Saber Akhondi",
-  institution = "Elsevier",
-  title = "NLP for Chemistry - Introduction and Recent Advances",
-  year = "2024",
-  note = "Available at: \url{https://github.com/camilothorne/nlp-4-chemistry-lrec-2024}"
+@misc{thorne-lrec-2024,
+  	author		= {Thorne, Camilo and Saber Akhondi, Saber},
+  	institution	= {Elsevier},
+ 	title 		= {NLP for Chemistry - Introduction and Recent Advances},
+  	year 		= {2024},
+  	url 		= {https://github.com/camilothorne/nlp-4-chemistry-lrec-2024}
 }
 ````
 
