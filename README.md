@@ -1,5 +1,5 @@
-<img style="float: right;" src="./cover-logos/logo-elsevier.jpg" alt="elsevier" width="88"> 
-<img style="float: left;" src="./cover-logos/molecule.jpg" alt="molecule" width="120">
+<img align="right" src="./cover-logos/logo-elsevier.jpg" alt="elsevier" width="68"> 
+<img align="right" src="./cover-logos/molecule.jpg" alt="molecule" width="100">
 
 ## NLP for Chemistry - Introduction and Recent Advances
 
