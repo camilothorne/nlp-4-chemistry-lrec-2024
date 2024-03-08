@@ -2,6 +2,7 @@
 
 **[GitHub respository for the COLING/LREC 2024 tutorial on NLP for chemistry]**
 
+<img align="right" src="./cover-logos/logo-elsevier.jpg" alt="logo" width="100" height="100" hspace="5">
 <img align="right" src="./cover-logos/caffeine-molecule.jpg" alt="molecule" width="100" height="100" hspace="5">
 
 ### Introduction
