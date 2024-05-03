@@ -14,7 +14,7 @@ The aim of this tutorial is to provide a basic introduction to this emerging fie
 * **Topic 1**. Basic chemical notions and techniques.
 * **Topic 2**. Text mining in the chemistry domain.
 * **Topic 3**. Distributional models for (computational) chemistry.
-* **Topic 4**. Large language models, multimodality, applications.
+* **Topic 4**. Large language models and applications.
 
 This tutorial assumes no prior knowledge, with the exception to exposure to Python and natural language processing. Knowledge of chemistry is beneficial but not required. For an overview of the topics, please read the proposal below. Please cite as follows:
 ```
@@ -40,12 +40,22 @@ This tutorial assumes no prior knowledge, with the exception to exposure to Pyth
 
 ### Slides
 
-TBD.
+Found under `slides/`.
 
-### Datasets
+### Datasets, Models and Tools
 
-TBD.
+Given GitHub storage limits, data artefacts need to be downloaded separately:
+- datasets need to be downloaded from GoogleDrive to `datasets/` (navigate to the directory and read the instructions).
+- models need to be downloaded from GoogleDrive to `models/` (navigate to the directory and read the instructions).
+- tools need to be downloaded from GoogleDrive to `tools/` (navigate to the directory and read the instructions).
 
 ### Notebooks
 
-TBD.
+Found under `notebooks/`.
+
+### Communication channels
+
+Participants are encouraged to reach out both during and after COLING/LREC 2024 for questions regarding the materials, methods, concepts, notebooks, etc.
+
+- Slack channel (public - just search it on Slack and join!): [#nlp-4-chemistry-lrec-coling-2024](https://app.slack.com/client/TFGK0D2HW/C071V80U57U).
+- Email: `camilo.thorne@gmail.com` and/or `c.thorne.1@elsevier.com`.
