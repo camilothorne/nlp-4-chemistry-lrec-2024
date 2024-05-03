@@ -44,10 +44,12 @@ Found under `slides/`.
 
 ### Datasets, Models and Tools
 
-Given GitHub storage limits, data artefacts need to be downloaded separately:
-- datasets need to be downloaded from GoogleDrive to `datasets/` (navigate to the directory and read the instructions).
-- models need to be downloaded from GoogleDrive to `models/` (navigate to the directory and read the instructions).
-- tools need to be downloaded from GoogleDrive to `tools/` (navigate to the directory and read the instructions).
+Given GitHub storage limits, data artefacts need to be downloaded separately from Google Drive:
+- the **datasets** need to be downloaded to `datasets/`
+- the **models** need to be downloaded to `models/`, and
+- the **tools** need to be downloaded to `tools/`.
+  
+Navigate to the directory and read the instructions.
 
 ### Notebooks
 
