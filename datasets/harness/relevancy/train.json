@@ -1,0 +1,4 @@
+{"version": "0.1.0",
+ "data": [{"EntityText": "1", "Context": "2.0", "Relevancy": "False"},
+          {"EntityText": "4", "Context": "-5.5", "Relevancy": "True"}]
+}
