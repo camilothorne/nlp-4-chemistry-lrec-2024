@@ -18,25 +18,26 @@ The aim of this tutorial is to provide a basic introduction to this emerging fie
 
 This tutorial assumes no prior knowledge, with the exception to exposure to Python and natural language processing. Knowledge of chemistry is beneficial but not required. For an overview of the topics, please read the proposal below. Please cite as follows:
 ```
-@misc{thorne-lrec-2024,
-  author	= {Thorne, Camilo and Saber Akhondi, Saber},
-  institution	= {Elsevier},
-  title 	= {NLP for Chemistry - Introduction and Recent Advances},
-  year 		= {2024},
-  url 		= {https://github.com/camilothorne/nlp-4-chemistry-lrec-2024}
+@inproceedings{thorne-akhondi-2024-nlp,
+    title = "{NLP} for Chemistry {--} Introduction and Recent Advances",
+    author = "Thorne, Camilo  and
+      Akhondi, Saber",
+    editor = "Klinger, Roman  and
+      Okazaki, Naozaki  and
+      Calzolari, Nicoletta  and
+      Kan, Min-Yen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024): Tutorial Summaries",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-tutorials.8",
+    pages = "45--49",
+    abstract = "In this half-day tutorial we will be giving an introductory overview to a number of recent applications of natural language processing to a relatively underrepresented application domain: chemistry. Specifically, we will see how neural language models (transformers) can be applied (oftentimes with near-human performance) to chemical text mining, reaction extraction, or more importantly computational chemistry (forward and backward synthesis of chemical compounds). At the same time, a number of gold standards for experimentation have been made available to the research {--}academic and otherwise{--} community. Theoretical results will be, whenever possible, supported by system demonstrations in the form of Jupyter notebooks. This tutorial targets an audience interested in bioinformatics and biomedical applications, but pre-supposes no advanced knowledge of either.",
 }
-````
+```
 
-<details>
-	<summary>Proposal for COLING/LREC 2024 (PDF file)</summary>
-<center>
-<object data="./proposal-text/lrec-2024.pdf" type="application/pdf" width="300px" height="300px">
-    <embed src="./proposal-text/lrec-2024.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./proposal-text/lrec-2024.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-</center>
-</details>
+The PDF file is [here](https://aclanthology.org/2024.lrec-tutorials.8/). 
 
 ### Slides
 
