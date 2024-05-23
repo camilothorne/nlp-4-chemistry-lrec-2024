@@ -53,5 +53,4 @@ Found under `notebooks/`.
 
 Participants are encouraged to reach out both during and after COLING/LREC 2024 for questions regarding the materials, methods, concepts, notebooks, etc.
 
-- Slack channel (public - just search it on Slack and join!): [#nlp-4-chemistry-lrec-coling-2024](https://app.slack.com/client/TFGK0D2HW/C071V80U57U).
-- Email: `camilo.thorne@gmail.com` and/or `c.thorne.1@elsevier.com`.
+- Email: `camilo.thorne@gmail.com`.
