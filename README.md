@@ -18,25 +18,19 @@ The aim of this tutorial is to provide a basic introduction to this emerging fie
 
 This tutorial assumes no prior knowledge, with the exception to exposure to Python and natural language processing. Knowledge of chemistry is beneficial but not required. For an overview of the topics, please read the proposal below. Please cite as follows:
 ```
-@misc{thorne-lrec-2024,
-  author	= {Thorne, Camilo and Saber Akhondi, Saber},
-  institution	= {Elsevier},
-  title 	= {NLP for Chemistry - Introduction and Recent Advances},
-  year 		= {2024},
-  url 		= {https://github.com/camilothorne/nlp-4-chemistry-lrec-2024}
+@inproceedings{thorne-akhondi-2024-nlp,
+    title     = "{NLP} for Chemistry {--} Introduction and Recent Advances",
+    author    = "Thorne, Camilo  and Akhondi, Saber",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, 
+	         Language Resources and Evaluation (LREC-COLING 2024): Tutorial Summaries",
+    year      = "2024",
+    address   = "Torino, Italy",
+    url       = "https://aclanthology.org/2024.lrec-tutorials.8",
+    pages     = "45--49"
 }
-````
+```
 
-<details>
-	<summary>Proposal for COLING/LREC 2024 (PDF file)</summary>
-<center>
-<object data="./proposal-text/lrec-2024.pdf" type="application/pdf" width="300px" height="300px">
-    <embed src="./proposal-text/lrec-2024.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./proposal-text/lrec-2024.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-</center>
-</details>
+The PDF file is [here](https://aclanthology.org/2024.lrec-tutorials.8/). 
 
 ### Slides
 
@@ -59,5 +53,4 @@ Found under `notebooks/`.
 
 Participants are encouraged to reach out both during and after COLING/LREC 2024 for questions regarding the materials, methods, concepts, notebooks, etc.
 
-- Slack channel (public - just search it on Slack and join!): [#nlp-4-chemistry-lrec-coling-2024](https://app.slack.com/client/TFGK0D2HW/C071V80U57U).
-- Email: `camilo.thorne@gmail.com` and/or `c.thorne.1@elsevier.com`.
+- Email: `camilo.thorne@gmail.com`.
